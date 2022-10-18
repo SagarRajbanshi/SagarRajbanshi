@@ -21,6 +21,12 @@ Here are some ideas to get you started:
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
+<h3 align="center">
+  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="30">
+ Sagar Rajbanshi
+  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="30">
+</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarrajbanshi&label=Profile%20views&color=0e75b6&style=flat" alt="sagarrajbanshi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagarrajbanshi" alt="sagarrajbanshi" /></a> </p>
