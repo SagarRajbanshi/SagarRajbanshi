@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... 
 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=13&lines=Most+Welcome+To+SagarRajbanshi+Github+Profile;Thank+You+Everyone+Love+UH+All)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=13&lines=Most+Welcome+To+SagarRajbanshi's+Github+Profile;Thank+You+Everyone+Love+UH+All....)](https://git.io/typing-svg)
 ![logo](https://github.com/SagarRajbanshi/SagarRajbanshi/blob/main/Screenshot_20221019-150620-1.jpg)
 
 <h1 align="center">Sagar Rajbanshi -Mr.X</h1>
