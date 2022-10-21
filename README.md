@@ -1,4 +1,7 @@
+<h1 align="center">Sagar Rajbanshi -Mr.X</h1>
 
+<!-- CODING GIF-->
+<img align="right" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e470hyegrnfpiiaphysg73vndo2gn1mro6xrxb964gk&rid=giphy.gif&ct=g" alt="A software engineer is writing code" width="300" />
 
 <!--
 **SagarRajbanshi/SagarRajbanshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +20,6 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=13&lines=Most+Welcome+To+SagarRajbanshi's+Github+Profile;Thank+You+Everyone+Love+UH+All....)](https://git.io/typing-svg)
 ![logo](https://github.com/SagarRajbanshi/SagarRajbanshi/blob/main/Screenshot_20221019-150620-1.jpg)
 
-<h1 align="center">Sagar Rajbanshi -Mr.X</h1>
 <h3 align="center">A passionate frontend developer from Nepal.</h3>
 <a href="#"><img title="Made in Nepal" src="https://img.shields.io/badge/MADE%20IN-Nepal-red?colorA=%237FFD4&colorB=%23FF3131&style=for-the-badge"></a>
 </p>
