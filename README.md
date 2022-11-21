@@ -36,11 +36,12 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagarrajbanshi" alt="sagarrajbanshi" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sagarrajbanshi_" target="blank"><img src="https://img.shields.io/twitter/follow/_sagarrajbanshi?logo=twitter&style=for-the-badge" alt="_sagarrajbanshi" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sagarrajbanshi_" target="blank"><img src="https://img.shields.io/twitter/follow/sagarrajbanshi_?logo=twitter&style=for-the-badge" alt="sagarrajbanshi_" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_sagarrajbanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_sagarrajbanshi" height="30" width="40" /></a>
+<a href="https://twitter.com/sagarrajbanshi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sagarrajbanshi_" height="30" width="40" /></a>
 <a href="https://fb.com/sagarrajbanshiofficial.profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sagarrajbanshiofficial.profile" height="30" width="40" /></a>
 <a href="https://instagram.com/sagar._.rajbanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sagar._.rajbanshi" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/sagarrajbanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sagarrajbanshi" height="30" width="40" /></a>
