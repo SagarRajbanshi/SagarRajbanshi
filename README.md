@@ -54,8 +54,5 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagarrajbanshi&show_icons=true&locale=en" alt="sagarrajbanshi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagarrajbanshi&" alt="sagarrajbanshi" /></p>
-
-
 <a href="#"><img title="Developed by SagarRajbanshi -Mr.X" src="https://img.shields.io/badge/Developed by%20-SagarRajbanshi |Mr.X|-red?colorA=%23000000&colorB=%23FF3131&style=for-the-badge"></a>
 </p>
