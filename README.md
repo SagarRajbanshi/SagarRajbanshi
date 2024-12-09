@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagarrajbanshi" alt="sagarrajbanshi" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sagarrajbanshi_" target="blank"><img src="https://img.shields.io/twitter/follow/sagarrajbanshi_?logo=twitter&style=for-the-badge" alt="sagarrajbanshi_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sagarrajbanshix" target="blank"><img src="https://img.shields.io/twitter/follow/sagarrajbanshi_?logo=twitter&style=for-the-badge" alt="sagarrajbanshi_" /></a> </p>
 
 
 <h3 align="left">Connect with me:</h3>
